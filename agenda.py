@@ -79,12 +79,12 @@ while True:
   if opcao == 4:
     editar_contato()  
 
-  if opcao == 5:
-    dados()
+#   if opcao == 5:
+#     dados()
 
-  # if opcao == 5:
-  #   print("Programa Encerrado...")
-  #   break
+  if opcao == 5:
+    print("Programa Encerrado...")
+    break
   
   # else:
   #   print("opção Invalida")  
